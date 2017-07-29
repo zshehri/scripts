@@ -5,3 +5,4 @@ A bunch of scripts I use to setup new boxes and automate configuration, detailed
 - init_mac_os: Initializing & hardening MacOS security in different levels (bios, system, network). Selected from [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 - init_linux_cloud: Initializing & hardening linux servers in the cloud (Ubuntu mainly)
 - mac_changer: changes mac address to random number (Mac - Linux)
+- ssh_keys_from_keybase.sh: pulls your keybase PGP keys, generate ssh keys out of them (MacOS, *nix)
