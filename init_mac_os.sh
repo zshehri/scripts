@@ -1,5 +1,5 @@
 ## Hardening MacOS systems, see https://github.com/drduh/macOS-Security-and-Privacy-Guide
-## before proceeding
+## before proceeding, make sure you understand every line and use it with discretion
 
 sudo scutil --set ComputerName your_computer_name
 sudo scutil --set LocalHostName your_hostname
